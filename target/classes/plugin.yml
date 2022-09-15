@@ -1,0 +1,7 @@
+name: FFA
+version: '1.0-SNAPSHOT'
+main: de.windleak.ffa.Main
+api-version: 1.18
+authors: [ WindLeak ]
+description: FFA gamemode
+website: https://windleak.de
